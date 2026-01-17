@@ -1,4 +1,6 @@
-@media (min-width:576px) {
+ /* max-width:means less than the value
+ min-width:means greater than the value*/
+ @media (min-width:576px) {
 
 
     .col-sm-1 {

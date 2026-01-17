@@ -16,7 +16,7 @@ body {
 
 .col {
     width: 100%;
-    background-color: rgb(255, 173, 143);
+    background-color: rgb(187, 186, 186);
 }
 
 .col-1 {
@@ -24,6 +24,11 @@ body {
 }
 
 .col-2 {
+    width: 70%;
+   
+}
+
+.column-2{
     width: 50%;
 }
 
@@ -49,6 +54,67 @@ body {
 
 .justify-content-center {
     justify-content: center;
+}
+
+.justify-content-end{
+    justify-content: end;
+}
+.a-items{
+    align-items:center;
+}
+.text-size{
+    font-size: 20px;
+
+}
+.ri-twitter-fill{
+    font-size: 25px;
+}
+.ri-facebook-circle-fill{
+    font-size: 25px;
+}
+.ri-instagram-fill{
+    font-size: 25px;
+}
+.ri-javascript-fill{
+    font-size: 100px;
+   
+}
+.ri-javascript-line{
+    font-size: 100px;
+}
+
+.ri-reactjs-line{
+    font-size: 100px;
+}
+.ri-nextjs-fill{
+    font-size: 100px;
+}
+.ri-nodejs-line{
+    font-size: 100px;
+}
+.ri-copyright-fill{
+    font-size: 100px;
+}
+
+.ri-creative-commons-fill{
+    font-size: 100px;
+}
+.ri-leaf-fill{
+    font-size: 100px;
+}
+
+
+.box{
+    height:300px;
+    width:800px;
+    padding-top: 20px;
+    background-color: white;
+    border-radius: 8px;
+}
+.text-design{
+    font-family: fantasy;
+    color:rgb(93, 242, 93);
+
 }
 
 [class*="col"] {
